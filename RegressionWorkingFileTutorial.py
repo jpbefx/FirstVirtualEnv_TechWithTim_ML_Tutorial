@@ -15,7 +15,7 @@ print(data.head())
 
 predict = "G3"  # This is called the 'LABEL'
 
-# Setting up arrays for Attrubutes, and Lebels.
+# Setting up arrays for Attributes, and Labels.
 # X = np.array(data.drop([predict], 1))
 # Y = np.array(data[predict])
 
